@@ -1,0 +1,8 @@
+.post-alert{
+  display: flex;
+  align-items: center;
+  
+}
+.post-alert img {
+  width: 25vw;
+}

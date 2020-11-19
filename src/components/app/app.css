@@ -1,0 +1,10 @@
+.app {
+    margin: 0 auto;
+    padding: 5px;
+    max-width: 800px;
+}
+
+.search-panel {
+  display: flex;
+  justify-content: space-between;
+}
